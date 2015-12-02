@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/wrburgess/events-client-browser/issues"
   },
-  "homepage": "https://github.com/wrburgess/events-client-browser#readme"
+  "homepage": "https://github.com/wrburgess/events-client-browser#readme",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
 }
