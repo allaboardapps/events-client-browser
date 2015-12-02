@@ -1,0 +1,19 @@
+{
+  "name": "events-client-browser",
+  "version": "1.0.0",
+  "description": "Events Client for Browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wrburgess/events-client-browser.git"
+  },
+  "author": "Randy Burgess of All Aboard Apps",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wrburgess/events-client-browser/issues"
+  },
+  "homepage": "https://github.com/wrburgess/events-client-browser#readme"
+}
